@@ -1,70 +1,169 @@
 <div align="center">
 
-# 👋 Hi, I'm Carl T. Lachica
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Carl%20T.%20Lachica&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### 💻 Software Developer • Full-Stack Developer • Backend Developer
+### 💻 Software Developer | Full-Stack Developer | Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Developing+Backend+Systems;Working+with+APIs+%26+Databases;Exploring+AI+%26+Machine+Learning;Turning+Ideas+into+Software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+web+%26+backend+systems;I+love+APIs+%26+databases;Exploring+AI+%26+Machine+Learning;Always+learning+something+new+%F0%9F%9A%80"/>
 
-<p>
-  <a href="https://github.com/LachicACarl">
-    <img src="https://img.shields.io/github/followers/LachicACarl?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/LachicACarl?tab=repositories">
-    <img src="https://img.shields.io/github/stars/LachicACarl?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/LachicACarl">
+<img src="https://img.shields.io/badge/GitHub-LachicACarl-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=LachicACarl&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧭 Navigation
 
-```javascript
-const carl = {
-    name: "Carl T. Lachica",
-    role: "Software Developer",
-    location: "Philippines",
+<p align="center">
 
-    interests: [
-        "Full-Stack Development",
-        "Backend Development",
-        "Database Systems",
-        "AI / Machine Learning",
-        "Software Testing",
-        "Data Engineering"
-    ],
+<a href="#-about-me">About Me</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-featured-projects">Projects</a> • <a href="#-github-analytics">Analytics</a> • <a href="#-learning-roadmap">Roadmap</a> • <a href="#-connect-with-me">Contact</a>
 
-    currentlyLearning: [
-        "Advanced Backend Development",
-        "Cloud Technologies",
-        "AI Engineering"
-    ],
+</p>
 
-    goal: "Build reliable and useful software solutions 🚀"
-};
+---
+
+# 👨‍💻 About Me
+
+```text
+╭──────────────────────────────────────────────╮
+│                 CARL LACHICA                 │
+├──────────────────────────────────────────────┤
+│ 💻 Software Developer                        │
+│ 🎓 Information Technology                    │
+│ 📍 Philippines                                │
+│                                              │
+│ Focus                                        │
+│ ├── Full-Stack Development                   │
+│ ├── Backend Engineering                      │
+│ ├── Database Systems                          │
+│ ├── REST APIs                                 │
+│ ├── AI / Machine Learning                     │
+│ └── Software Testing                          │
+╰──────────────────────────────────────────────╯
+```
+
+I enjoy building practical software systems that combine **clean interfaces, reliable backend services, databases, APIs, and intelligent technologies**.
+
+My goal is to continuously improve as a developer while creating software that solves real-world problems.
+
+---
+
+# 🖥️ Developer Terminal
+
+```bash
+carl@github:~$ whoami
+
+Carl T. Lachica
+
+carl@github:~$ role
+
+Software Developer
+
+carl@github:~$ interests
+
+Web Development
+Backend Development
+Database Engineering
+AI / Machine Learning
+Software Testing
+
+carl@github:~$ status
+
+Learning → Building → Testing → Improving
+
+carl@github:~$ echo $MISSION
+
+"Build useful software and keep learning."
 ```
 
 ---
 
-## ⚡ What I Do
+# ⚡ Quick Stats
+
+<div align="center">
+
+| 💻 Development |       🤖 AI      |   🗄️ Data   |   🧪 Quality   |
+| :------------: | :--------------: | :----------: | :------------: |
+|   Full-Stack   | Machine Learning |      SQL     | Manual Testing |
+|     Backend    |   Deep Learning  |   Databases  |   API Testing  |
+|    REST APIs   |  AI Applications | Data Systems |   Automation   |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,java,python,javascript,html,css" />
+</p>
+
+## ⚛️ Frameworks & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,nodejs,vite" />
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase" />
+</p>
+
+## 🔧 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Development
+## 🚍 PEAK MAP
 
-Building responsive and functional web applications using modern frontend and backend technologies.
+**Real-Time EDSA Carousel System**
+
+📍 GPS Tracking
+🚌 Passenger Management
+💳 NFC/RFID
+💰 Fare Processing
+📱 Flutter App
+⚡ FastAPI Backend
+
+`Flutter` `FastAPI` `Python` `Supabase`
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend Development
+## 🔍 TruthLens
 
-Designing APIs, database systems, authentication, business logic, and server-side applications.
+**AI Image Detection**
+
+🤖 AI Detection
+🧠 Deep Learning
+🖼️ Image Classification
+📊 Model Evaluation
+⚡ FastAPI API
+
+`Python` `PyTorch` `EfficientNet`
 
 </td>
 </tr>
@@ -72,17 +171,32 @@ Designing APIs, database systems, authentication, business logic, and server-sid
 <tr>
 <td>
 
-### 🤖 AI & Machine Learning
+## 📊 Paragon Monitoring
 
-Exploring AI-powered applications, image classification, prediction systems, and intelligent automation.
+**Backend Monitoring System**
+
+📋 Subscriber Data
+📈 Monitoring Dashboard
+👥 Admin Management
+🔄 Data Processing
+🗄️ Database Integration
+
+`React` `SQL` `REST API`
 
 </td>
 
 <td>
 
-### 🧪 QA & Testing
+## 📚 SmartChain Library
 
-Working with manual testing, test cases, API testing, and automated testing concepts.
+**AI + Blockchain E-Library**
+
+📖 Digital Library
+🤖 AI Features
+⛓️ Blockchain
+🗄️ Data Management
+
+`Web` `AI/ML` `Blockchain`
 
 </td>
 </tr>
@@ -90,93 +204,131 @@ Working with manual testing, test cases, API testing, and automated testing conc
 
 ---
 
-# 🛠️ Tech Stack
+# 📌 Project Development Status
 
-### 👨‍💻 Languages
+```text
+PEAK MAP
+████████████████████░░  90%
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,java,python,javascript,html,css" />
-</p>
+TruthLens
+████████████████░░░░░░  80%
 
-### ⚛️ Frameworks & Development
+Paragon Monitoring
+██████████████████░░░░  85%
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,nodejs,vite" />
-</p>
+SmartChain Library
+██████████████░░░░░░░░  70%
+```
 
-### 🗄️ Database & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
+> Progress percentages represent development/project maturity and are not official repository metrics.
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 My Developer Mindset
 
-## 🚍 PEAK MAP
-
-### Real-Time EDSA Carousel Transportation System
-
-> A transportation platform designed for passenger tracking, driver management, route monitoring, fare processing, and real-time transportation services.
-
-**Highlights**
-
-* 📍 Real-time GPS tracking
-* 🗺️ Route and station management
-* 🚌 Driver and passenger management
-* 📱 Flutter mobile application
-* ⚡ FastAPI backend
-* 💳 NFC/RFID fare processing
-* 💰 Fare calculation
-* 🔔 Notifications
-* 🔄 Real-time updates
-
-**Built With**
-
-`Flutter` `Dart` `FastAPI` `Python` `Supabase` `SQL` `WebSockets` `NFC/RFID`
-
----
-
-## 🔍 TruthLens
-
-### AI-Generated Image Detection
-
-An AI/ML application designed to classify images as **real or AI-generated** using deep-learning image classification.
-
-**Built With**
-
-`Python` `PyTorch` `EfficientNet` `FastAPI` `Machine Learning`
+```text
+        ┌──────────────┐
+        │     IDEA     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   DESIGN     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    BUILD     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    TEST      │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    SHIP 🚀   │
+        └──────────────┘
+```
 
 ---
 
-## 📊 Paragon Backend Monitoring
+# 🎯 Current Focus
 
-### Backend Monitoring & Data Management
+<div align="center">
 
-A monitoring platform designed to organize subscriber information, backend statuses, administrative workflows, and operational data.
+### ⚙️ Backend Engineering
 
-**Built With**
+### 🌐 Full-Stack Applications
 
-`React` `JavaScript` `SQL` `REST API` `Data Management`
+### 🗄️ Database Systems
+
+### 🤖 AI Engineering
+
+### 📊 Data Engineering
+
+### 🧪 Software Quality & Testing
+
+### ☁️ Cloud Technologies
+
+</div>
 
 ---
 
-## 📚 SmartChain Library
+# 📚 Learning Roadmap
 
-### AI-Powered Blockchain E-Library
+```text
+                    DEVELOPER ROADMAP
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+      FRONTEND          BACKEND           DATA
+          │                │                │
+       React            FastAPI            SQL
+       Flutter          REST API           ETL
+       UI/UX            Auth               Analytics
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                         CLOUD
+                           │
+                    Docker / Deployment
+                           │
+                           ↓
+                          AI
+                           │
+                  ML / Deep Learning
+                           │
+                           ↓
+                    AI ENGINEERING 🚀
+```
 
-A digital library concept combining **AI-powered functionality, blockchain technology, and database management**.
+---
 
-**Built With**
+# 🧪 Development Workflow
 
-`Web Development` `AI/ML` `Blockchain` `Database Systems`
+```text
+💡 Idea
+  ↓
+📋 Requirements
+  ↓
+🎨 Design
+  ↓
+💻 Development
+  ↓
+🔌 API Integration
+  ↓
+🗄️ Database
+  ↓
+🧪 Testing
+  ↓
+🐛 Debugging
+  ↓
+🚀 Deployment
+  ↓
+📈 Monitoring
+```
 
 ---
 
@@ -196,7 +348,7 @@ A digital library concept combining **AI-powered functionality, blockchain techn
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LachicACarl&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=LachicACarl&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -206,17 +358,17 @@ A digital library concept combining **AI-powered functionality, blockchain techn
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LachicACarl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=LachicACarl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <div align="center">
 
-[![Carl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LachicACarl\&theme=tokyo-night\&hide_border=true)](https://github.com/LachicACarl)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LachicACarl&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -226,52 +378,88 @@ A digital library concept combining **AI-powered functionality, blockchain techn
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/LachicACarl/LachicACarl/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/LachicACarl/LachicACarl/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🎮 More About Me
+
+<details>
+<summary>💻 What technologies do I enjoy?</summary>
+
+<br>
+
+I enjoy working with technologies related to:
+
+* Web applications
+* Backend APIs
+* Databases
+* Mobile development
+* AI/ML
+* Cloud deployment
+* Software testing
+
+</details>
+
+<details>
+<summary>🚀 What am I building?</summary>
+
+<br>
+
+I'm continuously working on projects involving:
+
+* Real-time systems
+* Transportation technology
+* AI-powered applications
+* Database-driven systems
+* Full-stack applications
+
+</details>
+
+<details>
+<summary>🧠 What am I currently learning?</summary>
+
+<br>
+
+I'm expanding my knowledge in:
+
+* Advanced backend development
+* Cloud technologies
+* AI engineering
+* Data engineering
+* Software architecture
+
+</details>
+
+---
+
+# 💼 Open to Opportunities
+
+I'm interested in opportunities related to:
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   💻 Full-Stack Development                   │
-│                                               │
-│   ⚙️ Backend & REST API Development           │
-│                                               │
-│   🗄️ Database Engineering                     │
-│                                               │
-│   🤖 Artificial Intelligence                  │
-│                                               │
-│   📊 Data Engineering & Analytics             │
-│                                               │
-│   🧪 Software Testing & QA                    │
-│                                               │
-└───────────────────────────────────────────────┘
+💻 Software Developer
+🌐 Full-Stack Developer
+⚙️ Backend Developer
+🧪 QA / Software Tester
+🤖 AI / ML Developer
+📊 Data Engineer
 ```
 
 ---
 
-# 💡 Development Philosophy
-
-> **"Build it. Test it. Improve it. Repeat."**
-
-I believe good software is not only about making something work — it's about making it **reliable, maintainable, understandable, and useful**.
-
----
-
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/LachicACarl">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -280,12 +468,16 @@ I believe good software is not only about making something work — it's about m
 
 <div align="center">
 
-### 👀 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub!
 
-<img src="https://komarev.com/ghpvc/?username=LachicACarl&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=LachicACarl&style=for-the-badge"/>
 
 <br><br>
 
-**⭐ Feel free to explore my repositories!**
+**"Build it. Test it. Improve it. Ship it. 🚀"**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=120&section=footer"/>
 
 </div>
